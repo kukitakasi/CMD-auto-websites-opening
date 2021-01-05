@@ -1,5 +1,5 @@
 # Windows-command-trick
-@ This codes run on windows cmd 
+ This codes run on windows cmd 
 You can run this code on following these steps
 Steps:-
 1- open notepad and past this code
