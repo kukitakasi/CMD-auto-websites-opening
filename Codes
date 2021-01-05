@@ -1,0 +1,8 @@
+@echo off
+:a
+Start www.google.com
+Start www.facebook.com
+Start www.yahoo.com
+Start www.bing.com
+Start www.cmd.com
+goto :a
